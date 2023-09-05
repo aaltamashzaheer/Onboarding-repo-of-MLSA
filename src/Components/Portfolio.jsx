@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WordPress VS Wix | Which one is better for your business in 2022?",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "WordPress and Wix are two of the most popular website builders in the world. But which one is better for your business? In this article, we will compare WordPress vs Wix side by side and show you the pros and cons of each one.",
+    url: "https://www.linkedin.com/pulse/wordpress-vs-wix-which-one-better-your-business-2022-altamash-zaheer/?trackingId=Aa8OHtJlQUqpGswvae7akw%3D%3D",
   },
   {
-    title: "Web Development for Beginners",
+    title: "7 Reasons Why You Need Database in 2022?",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A database is a collection of data that is stored in a computer system. Databases are used to store, organize, and retrieve large amounts of information quickly and efficiently. They are also used for data analysis and reporting purposes.",
+    url: "https://www.linkedin.com/pulse/7-reasons-why-you-need-database-2022-altamash-zaheer/?trackingId=fJOM%2FfV3QsSvFw567n6p0g%3D%3D",
   },
   {
-    title: "My Resume Site",
+    title: "Screenig App Using Html CSS JavaScript",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A screening app created using Html CSS and Bootstrap. Includes a quiz, and a results page.",
+    url: "https://github.com/aaltamashzaheer/Basic-Web-Projects-using-HTML-CSS-and-JavaScript/tree/main/Screenig%20App%20Using%20Html%20CSS%20JavaScript",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Netflix Clone Using Django",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A Netflix clone created using Django and deployed to Heroku. Includes movies and TV shows, a search function, and a watchlist.",
+    url: "https://github.com/aaltamashzaheer/Django-Netflix-clone",
   },
 ];
 
