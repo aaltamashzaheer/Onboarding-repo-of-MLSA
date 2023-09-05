@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Altamash Zaheer",
-  title: "Web DesigWeb Trainee | AI/ML Enthusiastic | Content Writer | Proficient in Python | CE Junior @ UET",
+  title: "Web Trainee | AI/ML Enthusiastic | Content Writer | Proficient in Python | CE Junior @ UET",
   email: "aaltamashzaheer@gmail.com",
   gitHub: "aaltamashzaheer",
   instagram: "aaltamashzaheer",
